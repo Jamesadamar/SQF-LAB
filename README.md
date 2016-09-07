@@ -20,9 +20,11 @@ Jedes Beispielprojekt besitzt einen eigenen Ordner, indem ihr eine Beschreibung 
 Wer mit mir Kontakt aufnehmen möchte, kann auf unserer Homepage:
 
 [3.Jägerkompanie](3jgkp.de)
+
 oder in unserem Teamspeak:
 
 ts.3jgkp.de
+
 vorbeischauen. 
 
 Ich freue mich auch über Mails:
