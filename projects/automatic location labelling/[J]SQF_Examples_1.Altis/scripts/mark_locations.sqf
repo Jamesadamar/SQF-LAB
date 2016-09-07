@@ -12,7 +12,7 @@
 #define RADIUS 100000
 #define MARKER_NAME_CITY "opfor_city"
 // arguments
-private _types = param [0, ["nameCity"], [["string"]], []];
+private _types = param [0, ["nameCity"], [[]], []];
 
 // begin of script
 private _config_types = [];

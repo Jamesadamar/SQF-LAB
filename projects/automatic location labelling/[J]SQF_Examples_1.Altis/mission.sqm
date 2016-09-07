@@ -8,7 +8,7 @@ class EditorData
 	toggles=1;
 	class ItemIDProvider
 	{
-		nextID=3;
+		nextID=6;
 	};
 	class MarkerIDProvider
 	{
@@ -88,7 +88,7 @@ class Mission
 	};
 	class Entities
 	{
-		items=2;
+		items=5;
 		class Item0
 		{
 			dataType="Group";
@@ -188,6 +188,51 @@ class Mission
 			type="o_installation";
 			id=2;
 			atlOffset=-22.656368;
+		};
+		class Item2
+		{
+			dataType="Trigger";
+			position[]={14761.783,17.91,16765.885};
+			class Attributes
+			{
+				onActivation="_nul = [] execVM ""scripts\mark_locations.sqf""";
+				sizeA=0;
+				sizeB=0;
+				repeatable=1;
+				activationBy="ALPHA";
+			};
+			id=3;
+			type="EmptyDetector";
+		};
+		class Item3
+		{
+			dataType="Trigger";
+			position[]={14761.284,17.91,16746.881};
+			class Attributes
+			{
+				onActivation="_nul = [[""nameCity""]] execVM ""scripts\mark_locations.sqf""";
+				sizeA=0;
+				sizeB=0;
+				repeatable=1;
+				activationBy="BRAVO";
+			};
+			id=4;
+			type="EmptyDetector";
+		};
+		class Item4
+		{
+			dataType="Trigger";
+			position[]={14761.284,17.91,16728.877};
+			class Attributes
+			{
+				onActivation="_nul = [[""nameCity"", ""nameVillage"", ""NameCityCapital""]] execVM ""scripts\mark_locations.sqf""";
+				sizeA=0;
+				sizeB=0;
+				repeatable=1;
+				activationBy="CHARLIE";
+			};
+			id=5;
+			type="EmptyDetector";
 		};
 	};
 };
