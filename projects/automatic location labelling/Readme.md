@@ -7,4 +7,4 @@ Wir wollen also auf einer leeren Karte allein durch das Starten des Skriptes und
 
 ## Schwierigkeitsgrad
 
-Leicht: Das Projekt besteht nur aus einem relativ kurzen Script und es werden keine großen Vorkenntnisse benötigt, man muss sich aber ggf. in die Arbeit mit der configFile und dem Config Viewer einarbeiten.
+*Leicht*: Das Projekt besteht nur aus einem relativ kurzen Script und es werden keine großen Vorkenntnisse benötigt, man muss sich aber ggf. in die Arbeit mit der configFile und dem Config Viewer einarbeiten.
