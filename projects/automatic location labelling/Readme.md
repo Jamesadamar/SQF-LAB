@@ -1,6 +1,6 @@
 # Projekt: automatic location labelling
 
-In diesem Projekt geht es um ein kleines Skript, dass in vielen Public-Missionen wie Liberation & Co Einsatz finden könnte: Das automatische Markieren sowie Benennen von Städten und markanten Punkten auf der Karte.
+In diesem Projekt geht es um ein kleines Skript, das in vielen Public-Missionen wie Liberation & Co Einsatz finden könnte: Das automatische Markieren sowie Benennen von Städten und markanten Punkten auf der Karte.
 
 ## Schwierigkeitsgrad
 
