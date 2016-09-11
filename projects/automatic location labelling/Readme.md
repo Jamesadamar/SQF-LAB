@@ -11,4 +11,4 @@ Wir wollen also auf einer leeren Karte allein durch das Starten des Skriptes und
 
 ## YT-Video
 Hier kann sich das Video zu dem Projekt angesehen werden:
-[SQL-LAB Projekt: automatic location labelling](https://youtu.be/f9y69Qx2s0k)
+[![SQL-LAB Projekt: automatic location labelling](http://img.youtube.com/vi/f9y69Qx2s0k/0.jpg)](http://www.youtube.com/watch?v=f9y69Qx2s0k)
