@@ -16,6 +16,10 @@ Nicht zuletzt soll dieses Projekt auch von eurer Mitarbeit leben, daher bin ich 
 ## Aufbau
 Jedes Beispielprojekt besitzt einen eigenen Ordner, indem ihr eine Beschreibung des Projektes, das Projekt selbst sowie das YouTube-Video zum Projekt findet.
 
+## Der YT-Kanal
+Hier ist der Kanal für das gesamte Projekt:
+https://www.youtube.com/playlist?list=PLbOGhVU-Vn-XRPMHT6JwrlrMWUyC7b8n4
+
 ## Kontakt
 Wer mit mir Kontakt aufnehmen möchte, kann auf unserer Homepage:
 
